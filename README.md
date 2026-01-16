@@ -1,6 +1,6 @@
 CODINGSAMURAI Internship - Project Submission
 
-This repository contains the two tasks completed as part of the Coding Samurai Internship (Nov-Dec 2025). The goal was to build simple, working, and clean web projects without using heavy frameworks.
+This repository contains the two tasks completed as part of the Coding Samurai Internship (Jan-Feb 2026). The goal was to build simple, working, and clean web projects without using heavy frameworks.
 
 Task 1 - Personal Portfolio Website
 
